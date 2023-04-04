@@ -1,0 +1,6 @@
+numpy
+matplotlib
+quantities
+neo
+elephant
+pyspike
